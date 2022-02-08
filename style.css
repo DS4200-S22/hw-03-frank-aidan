@@ -1,0 +1,39 @@
+body {
+	font-family: "Arial";
+}
+
+.centered {
+	text-align: center;
+}
+
+.flex {
+  /* We first create a flex layout context */
+  display: flex;
+  
+  /* Then we define the flow direction 
+     and if we allow the items to wrap 
+   * Remember this is the same as:
+   * flex-direction: row;
+   * flex-wrap: wrap;
+   */
+  flex-flow: row wrap;
+  
+  /* Then we define how is distributed the remaining space */
+  justify-content: space-evenly;
+  align-content: space-evenly;
+  
+  padding: 0px;
+  margin: 10px;
+  list-style: none;
+}
+
+.inner {
+  color: white;
+  border-width: 3px;
+  border-color: "black";
+}
+
+#p {
+	font-size: 12px;
+	color: "green";
+}
