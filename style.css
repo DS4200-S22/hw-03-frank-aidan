@@ -64,3 +64,8 @@ body {
     display: inline-block;
     vertical-align: center;
 }
+
+.acknowledgements {
+  display: table;
+  margin: 0 auto;
+}
