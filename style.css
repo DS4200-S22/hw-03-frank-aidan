@@ -36,6 +36,9 @@ body {
 
 #p {
 	font-size: 12px;
+  width: 500px;
+  overflow-wrap: normal;
+  padding: 20px;
 }
 
 .thing {
