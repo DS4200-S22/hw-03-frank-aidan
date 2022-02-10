@@ -1,7 +1,7 @@
 # hw-03
 hw-03 - HTML+CSS &amp; Marks+Channels
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: [ds4200-s22.github.io/hw-03-frank-aidan/](https://ds4200-s22.github.io/hw-03-frank-aidan/)
 
 ## Purpose
 
